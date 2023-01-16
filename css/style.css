@@ -1,9 +1,10 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&family=Work+Sans:wght@500&display=swap');
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
+    font-family: 'Work Sans', sans-serif;
 }
 a{
     text-decoration: none;
@@ -217,7 +218,7 @@ ul,ol{
 .img-text {
     position: absolute;
     left: -39px;
-    bottom: -32px;
+    bottom: +100px;
     padding: 20px;
     background: #ee9207;
     display: inline-block;
